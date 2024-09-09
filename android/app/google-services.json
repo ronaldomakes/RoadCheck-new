@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191360340248",
+    "project_id": "roadcheck2024-eccb6",
+    "storage_bucket": "roadcheck2024-eccb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191360340248:android:20c06a5e62d5dd0cf8ce6d",
+        "android_client_info": {
+          "package_name": "com.example.yolo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnWfHSVqVRmbWBfmYelW_8jjeLp80cBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
